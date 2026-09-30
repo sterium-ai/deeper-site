@@ -4,6 +4,13 @@
 
 ▶ **[Play the free demo in your browser](https://play.steriumai.dev)** · 🌐 [steriumai.dev](https://steriumai.dev) · Full game planned at US$5 for Windows, Linux and Android
 
+## In plain words
+
+DEEPER is a small strategy game you can play for free in your browser. You don't control the miners directly: you
+tell them where to dig and what to build, and they get on with it — eating, sleeping and fighting on their own. The
+goal is to guide the colony safely to the bottom of the world. It's built from scratch without a game engine, so the
+whole demo loads almost instantly, even on a phone.
+
 ![A colony's shaft of ladders and torch-lit tunnels](img/02-colony.webp)
 
 Lead a band of miners 1,500 metres into the earth. Mark tiles and your colonists dig, build and fight on their
