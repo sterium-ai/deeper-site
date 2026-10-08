@@ -1,0 +1,8 @@
+/* Floating "Join us on Discord" button, bottom-right on every public page. */
+.discord-fab{position:fixed;right:max(18px,env(safe-area-inset-right));bottom:max(18px,env(safe-area-inset-bottom));z-index:50;display:flex;align-items:center;gap:10px;padding:10px 16px 10px 12px;background:#5865f2;color:#fff;font-size:22px;line-height:1;text-decoration:none;box-shadow:0 4px #3c45a5,0 8px 22px #0b0a1299;transition:transform .18s ease,background .18s ease,box-shadow .18s ease}
+.discord-fab svg{width:30px;height:30px;flex-shrink:0;fill:currentColor}
+.discord-fab:hover,.discord-fab:focus-visible{background:#6d78ff;transform:translateY(-3px);box-shadow:0 7px #3c45a5,0 10px 26px #0b0a12aa;outline:none}
+.discord-fab:focus-visible{outline:3px solid #ffe096;outline-offset:3px}
+.discord-fab:active{transform:translateY(2px);box-shadow:0 2px #3c45a5}
+@media(max-width:540px){.discord-fab{padding:11px;gap:0}.discord-fab span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}}
+@media(prefers-reduced-motion:reduce){.discord-fab{transition:none}.discord-fab:hover,.discord-fab:active{transform:none}}
