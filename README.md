@@ -2,7 +2,7 @@
 
 **A pixel-art colony survival game where the only way is down.**
 
-▶ **[Play the free demo in your browser](https://play.steriumai.dev)** · 🌐 [steriumai.dev](https://steriumai.dev) · Full game planned at US$5 for Windows, Linux and Android
+▶ **[Play the free demo in your browser](https://play.digdeepergame.com)** · 🌐 [digdeepergame.com](https://digdeepergame.com) · Full game planned at US$5 for Windows, Linux and Android
 
 ## In plain words
 
@@ -96,7 +96,7 @@ or network connection, not even on phones.
 ## This repository
 
 The public site for the game: the free demo ([`index.html`](index.html), a single-file build), the
-[privacy policy](https://play.steriumai.dev/privacy.html) and the [press kit](https://play.steriumai.dev/press.html).
+[privacy policy](https://play.digdeepergame.com/privacy.html) and the [press kit](https://play.digdeepergame.com/press.html).
 The game's source code is not public.
 
 © 2026 Sterium AI · Fonts: Press Start 2P and VT323 (SIL Open Font License, see `fonts/`)
